@@ -49,4 +49,13 @@ Analyze a high-volume dataset to detect suspicious activity and identify potenti
 - Threat Detection  
 - Log Analysis  
 - Incident Reporting  
-- Analytical Thinking  
+- Analytical Thinking
+- 
+-![image](https://github.com/sunilna2002/Sunil-Rajpal-Cyber-Portfolio/blob/87de186b18e1453404ee690dbe4c1c520338cbf4/Screenshot%202026-05-02%20111044.png)
+
+
+  - ![image](https://github.com/sunilna2002/Sunil-Rajpal-Cyber-Portfolio/blob/87de186b18e1453404ee690dbe4c1c520338cbf4/Screenshot%202026-05-02%20112433.png)
+
+
+
+    - ![image](https://github.com/sunilna2002/Sunil-Rajpal-Cyber-Portfolio/blob/87de186b18e1453404ee690dbe4c1c520338cbf4/Screenshot%202026-05-02%20112456.png)- 
